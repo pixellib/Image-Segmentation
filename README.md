@@ -13,3 +13,9 @@ pip install opencv-python==4.5.1
 |Trained Model Link|https://drive.google.com/drive/folders/1cBthFIFWEWJkTs2ALvkRzYUrgSSUYeV2|
 |Output Link|https://drive.google.com/file/d/161qVGNEIZSuhOssROYBVO_ypaI8J-mzJ/view?usp=sharing|
 
+## Video Output:
+
+| Video output live camera |
+|:---:|
+|  |
+
